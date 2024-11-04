@@ -27,13 +27,15 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Start the application:
+1. Start the application, you can do this in the terminal:
 
-2. A window will appear with two buttons:
+python screen_recorder.py
+
+3. A window will appear with two buttons:
    - Green "Start Recording" button - Click to begin recording
    - Red "Stop Recording" button - Click to end recording
 
-3. When you stop recording, the video file will be automatically saved in the current directory with a name format: `recording_YYYYMMDD_HHMMSS.avi`
+4. When you stop recording, the video file will be automatically saved in the current directory with a name format: `recording_YYYYMMDD_HHMMSS.avi`
 
 
 ## Dependencies
