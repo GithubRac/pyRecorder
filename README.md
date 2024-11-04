@@ -12,7 +12,8 @@ A lightweight, easy-to-use screen recording application built with Python. This 
 
 ## Prerequisites
 
-Before running the application, make sure you have Python 3.6 or higher installed on your system. You can check your Python version by running:```bash
+Before running the application, make sure you have installed Python 3.6 or higher on your system. You can check your Python version by running:
+
 python --version
 
 ## Installation
